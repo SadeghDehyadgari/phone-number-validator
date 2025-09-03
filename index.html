@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Phone number validator</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="phone-container">
+      <div class="phone-screen">
+        <div class="status-bar">
+          <span class="time">9:41</span>
+          <div class="status-icons">
+            <i class="fas fa-signal"></i>
+            <i class="fas fa-wifi"></i>
+            <i class="fas fa-battery-full"></i>
+          </div>
+        </div>
+
+        <div class="app-container">
+          <h1 class="app-title">Number Validator</h1>
+          <div class="input-container">
+            <input
+              type="text"
+              id="user-input"
+              placeholder="Enter phone number"
+            />
+          </div>
+          <div id="results-div"></div>
+        </div>
+
+        <div class="buttons-container">
+          <button type="button" id="check-btn">Check</button>
+          <button type="reset" id="clear-btn">Clear</button>
+        </div>
+      </div>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>
