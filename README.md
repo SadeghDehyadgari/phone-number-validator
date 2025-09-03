@@ -1,9 +1,11 @@
 📱 Phone Number Validator 📞
 
+
 A responsive smartphone-styled US phone number validator with real-time validation feedback.
 
 
 ✨ Features
+
 📲 Smartphone UI Design: Realistic iPhone-inspired interface with status bar
 
 
@@ -20,6 +22,7 @@ A responsive smartphone-styled US phone number validator with real-time validati
 
 
 🔢 Supported Formats
+
 The validator accepts these US phone number formats:
 
 1 555-555-5555
@@ -38,6 +41,7 @@ The validator accepts these US phone number formats:
 
 
 🚀 How to Use
+
 📥 Enter a phone number in the input field
 
 🔍 Click the "Check" button to validate
@@ -48,6 +52,7 @@ The validator accepts these US phone number formats:
 
 
 🛠️ Technologies Used
+
 ⚡ HTML5
 
 🎨 CSS3 (with Flexbox and Grid)
@@ -60,6 +65,7 @@ The validator accepts these US phone number formats:
 
 
 📋 Browser Compatibility
+
 ✅ Chrome
 
 ✅ Firefox
@@ -70,6 +76,7 @@ The validator accepts these US phone number formats:
 
 
 📞 About
+
 This project was created to demonstrate front-end development skills including responsive design, form validation, and UI/UX principles. The smartphone design provides an engaging user experience while maintaining functionality across devices.
 
 
