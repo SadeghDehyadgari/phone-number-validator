@@ -4,6 +4,8 @@
 
 A responsive smartphone-styled US phone number validator with real-time validation feedback.
 
+Watch live on: https://sadeghdehyadgari.github.io/phone-number-validator/
+
 
 
 ✨ Features
